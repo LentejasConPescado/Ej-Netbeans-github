@@ -9,6 +9,9 @@ package proyecto_con_git;
  * @author Gabriel
  * He añadido un cambio,
  * He añadido dos cambios.
+ * 
+ * Mejor más cambios 
+ * Espera ahora por fin añade el color
  */
 public class Proyecto_con_git {
 
